@@ -1,9 +1,24 @@
 # Etapa1-SCV
+
 Etapa 1 - Reconocimiento del entorno y armado de equipos con SCV
 
-## Integrante: Ingrith León
 
-- **Nombre:** Ingrith León
-- **Rol:** Pendiente de asignación
-- **Ubicación:** Villavicencio
-- **Perfil:** Estudiante interesada en aprender sobre desarrollo de videojuegos y herramientas de control de versiones.
+
+
+
+\## Integrante: Ingrith León
+
+
+
+!\[Foto de Ingrith](Ingrith/INGRITH.jpg)
+
+
+
+\- \*\*Nombre:\*\* Ingrith León
+
+\- \*\*Rol:\*\* Pendiente de asignación
+
+\- \*\*Ubicación:\*\* Villavicencio
+
+\- \*\*Perfil:\*\* Estudiante interesada en aprender sobre desarrollo de videojuegos y herramientas de control de versiones.
+
