@@ -16,7 +16,7 @@ Etapa 1 - Reconocimiento del entorno y armado de equipos con SCV
 
 \- \*\*Nombre:\*\* Ingrith León
 
-\- \*\*Rol:\*\* Pendiente de asignación
+\- \*\*Rol:\*\* Diseñadora de videojuegos (Game Designer)
 
 \- \*\*Ubicación:\*\* Villavicencio
 
